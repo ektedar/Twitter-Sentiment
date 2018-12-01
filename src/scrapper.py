@@ -8,7 +8,7 @@ import urllib.request
 import bs4
 from textblob import TextBlob as tb
 
-USER_URL = "https://www.twitter.com/Ektadizzy"
+USER_URL = "<USER URL>"
 USER_PAGE = urllib.request.urlopen(USER_URL)
 
 # Variable Initializations for readability
