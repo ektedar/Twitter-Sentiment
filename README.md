@@ -4,11 +4,11 @@ The goal of this project is to analyze sentiment for a user's tweets.  Their ove
 
 ## Dependencies
 
-TextBlob
-Numpy
-Pandas
-BeautifulSoup
+-TextBlob
+-Numpy
+-Pandas
+-BeautifulSoup
 
 ## Usage
 
-The `scrappy.py` python file will be scrapping the Twitter Page to retrieve the tweets.  This does not work on locked or private accounts.     
+The `scrapper.py` python file will be scrapping the Twitter Page to retrieve the tweets.  This does not work on locked or private accounts.     
