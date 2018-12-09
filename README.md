@@ -5,10 +5,11 @@ The goal of this project is to analyze sentiment for a user's tweets.  Their ove
 ## Dependencies
 
 - TextBlob
+- Vader
 - Numpy
 - Pandas
 - BeautifulSoup
 
 ## Usage
 
-The `scrapper.py` python file will be scrapping the Twitter Page to retrieve the tweets.  This does not work on locked or private accounts.     
+The `scrapper.py` python file will be scrapping the Twitter Page to retrieve the tweets.  This does not work on locked or private accounts.  This will not grab all the tweets. It is possible to simulate that through Selenium. The `sentiment_calculator.py` have method that will calculate the sentiment of the tweets provided to them.       
