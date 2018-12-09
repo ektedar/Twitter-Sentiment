@@ -4,10 +4,10 @@ The goal of this project is to analyze sentiment for a user's tweets.  Their ove
 
 ## Dependencies
 
--TextBlob
--Numpy
--Pandas
--BeautifulSoup
+- TextBlob
+- Numpy
+- Pandas
+- BeautifulSoup
 
 ## Usage
 
